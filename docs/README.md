@@ -4,7 +4,7 @@
 
 RE-URL (当前版本 v1.0.0) 文件下载地址
 
-> [ https://github.com/ailewl/reURL/access/](https://github.com/ailewl/reURL/access/)
+> [ https://github.com/ailewl/reURL/tree/master/access](https://github.com/ailewl/reURL/tree/master/access)
 
 
 > 集成包内包含开发版及生产版
